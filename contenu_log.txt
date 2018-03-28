@@ -1,0 +1,3 @@
+enlever pointillés et ajout des numeros au debut de la phrase et un point à la fin de la phrase
+
+initial commit
